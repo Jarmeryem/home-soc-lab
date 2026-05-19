@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs temporaires
+*.log
+*.tmp
+
+# Archives personnelles (ne pas publier les PCAP bruts)
+*.pcap
+*.cap

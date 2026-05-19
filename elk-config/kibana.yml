@@ -1,0 +1,4 @@
+server.port: 5601
+server.host: "0.0.0.0"
+server.name: "SOC-Lab Kibana"
+elasticsearch.hosts: ["http://localhost:9200"]
