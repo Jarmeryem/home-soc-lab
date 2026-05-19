@@ -6,6 +6,6 @@ Thumbs.db
 *.log
 *.tmp
 
-# Archives personnelles (ne pas publier les PCAP bruts)
+# Archives personnelles
 *.pcap
 *.cap
